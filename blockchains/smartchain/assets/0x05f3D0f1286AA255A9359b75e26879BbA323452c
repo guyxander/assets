@@ -1,0 +1,11 @@
+{
+    "name": "Furionex",
+    "type": "BEP20",
+    "symbol": "FEXT",
+    "decimals": 6,
+    "website": "https://furionex/",
+    "description": "Furionex is the exchange token of the Furionex exchange.",
+    "explorer": "https://bscscan.com/token/0x05f3D0f1286AA255A9359b75e26879BbA323452c",
+    "status": "active",
+    "id": "0x05f3D0f1286AA255A9359b75e26879BbA323452c"
+}
